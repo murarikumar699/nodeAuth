@@ -1,0 +1,10 @@
+{
+    "emailAlreadyTaken":"Email already taken",
+    "invalidEmailOrPassword":"Invalid email or password",
+    "invalidEmail":"Invalid email",
+    "requiredFields":"Fill all the required fields",
+    "welcome":"Welcome to dashboard",
+    "success":"Success",
+    "error":"Something went wrong",
+    "signUpSuccessfully":"Signup Successfully"
+}
